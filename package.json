@@ -1,0 +1,32 @@
+{
+  "name": "yiye-front-extension-pack",
+  "displayName": "Yiye Front Extension Pack",
+  "description": "frontend dev pack for yiye.ai",
+  "publisher": "yiyetech",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "icon": "logo.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yiyetech/yiye-front-extension-pack"
+  },
+  "extensionPack": [
+    "ms-vscode-remote.remote-containers",
+    "dbaeumer.vscode-eslint",
+    "seatonjiang.gitmoji-vscode",
+    "eamodio.gitlens",
+    "octref.vetur",
+    "esbenp.prettier-vscode",
+    "vincaslt.highlight-matching-tag",
+    "johnpapa.vscode-peacock",
+    "mhutchie.git-graph",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "xabikos.JavaScriptSnippets"
+  ]
+}
