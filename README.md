@@ -6,6 +6,7 @@ WIP 🚧 施工中...
 
 | 插件                                     | 说明                         |
 | ---------------------------------------- | ---------------------------- |
+| "streetsidesoftware.code-spell-checker"  | 一个基本的拼写错误检查工具   |
 | "ms-vscode-remote.remote-containers"     | 使用容器作为开发环境         |
 | "esbenp.prettier-vscode"                 | 代码格式化工具 Prettier      |
 | "dbaeumer.vscode-eslint"                 | 代码校验工具 ESLint          |
@@ -20,7 +21,7 @@ WIP 🚧 施工中...
 
 ## Todo List
 
-[] 提供使用说明
+- [ ] 引入 Github Actions
 
 ```
 **Enjoy!**
